@@ -29,18 +29,24 @@
   </url>
   
   <url>
-    <loc>https://ummc-bjc.github.io/categories/random/</loc>
-    <lastmod>2017-05-20T12:00:23+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://ummc-bjc.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://ummc-bjc.github.io/</loc>
+    <lastmod>2017-05-20T12:00:23+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ummc-bjc.github.io/tags/welcome/</loc>
+    <lastmod>2017-05-20T12:00:23+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ummc-bjc.github.io/categories/welcome/</loc>
     <lastmod>2017-05-20T12:00:23+02:00</lastmod>
     <priority>0</priority>
   </url>
