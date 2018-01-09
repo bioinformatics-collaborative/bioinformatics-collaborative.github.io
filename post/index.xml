@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on UMMC Bioinformatics Journal Club Blog</title>
-    <link>https://ummc-bjc.github.io/post/</link>
+    <link>https://ummc-bc.github.io/post/</link>
     <description>Recent content in Posts on UMMC Bioinformatics Journal Club Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice).</copyright>
     <lastBuildDate>Sat, 20 May 2017 12:00:23 +0200</lastBuildDate>
     
-	<atom:link href="https://ummc-bjc.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ummc-bc.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Welcome</title>
-      <link>https://ummc-bjc.github.io/2017/05/20/welcome/</link>
+      <link>https://ummc-bc.github.io/2017/05/20/welcome/</link>
       <pubDate>Sat, 20 May 2017 12:00:23 +0200</pubDate>
       
-      <guid>https://ummc-bjc.github.io/2017/05/20/welcome/</guid>
+      <guid>https://ummc-bc.github.io/2017/05/20/welcome/</guid>
       <description>&lt;p&gt;Welcome to the UMMC Bioinformatics Journal Club Blog!&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
