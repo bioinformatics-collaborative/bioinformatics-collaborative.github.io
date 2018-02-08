@@ -3,50 +3,50 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ummc-bc.github.io/about/</loc>
+    <loc>https://bioinformatics-collaborative.github.io/about/</loc>
     <lastmod>2017-10-24T21:49:20+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ummc-bc.github.io/meetings/</loc>
+    <loc>https://bioinformatics-collaborative.github.io/meetings/</loc>
     <lastmod>2017-10-24T21:49:20+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ummc-bc.github.io/2017/10/24/welcome/</loc>
+    <loc>https://bioinformatics-collaborative.github.io/2017/10/24/welcome/</loc>
     <lastmod>2017-10-24T12:00:23+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://ummc-bc.github.io/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ummc-bc.github.io/post/</loc>
+    <loc>https://bioinformatics-collaborative.github.io/</loc>
     <lastmod>2017-10-24T12:00:23+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ummc-bc.github.io/tags/</loc>
+    <loc>https://bioinformatics-collaborative.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ummc-bc.github.io/</loc>
+    <loc>https://bioinformatics-collaborative.github.io/post/</loc>
     <lastmod>2017-10-24T12:00:23+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ummc-bc.github.io/tags/welcome/</loc>
+    <loc>https://bioinformatics-collaborative.github.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bioinformatics-collaborative.github.io/tags/welcome/</loc>
     <lastmod>2017-10-24T12:00:23+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://ummc-bc.github.io/categories/welcome/</loc>
+    <loc>https://bioinformatics-collaborative.github.io/categories/welcome/</loc>
     <lastmod>2017-10-24T12:00:23+02:00</lastmod>
     <priority>0</priority>
   </url>
